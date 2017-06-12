@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/amitjha/tinyos-main/tools/tinyos/java/tinyos.jar"/>
+	<classpathentry kind="lib" path="/home/amitjha/Desktop/amazoniot/aws-iot-device-sdk-java/aws-iot-device-sdk-java/target/aws-iot-device-sdk-java-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/amitjha/Desktop/amazoniot/paho/paho.mqtt.java/org.eclipse.paho.client.mqttv3/target/org.eclipse.paho.client.mqttv3-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/amitjha/Desktop/homesenseweb/WebContent/WEB-INF/lib/mariadb-java-client-1.1.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
